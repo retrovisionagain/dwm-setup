@@ -9,7 +9,6 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "JetBrainsMonoNL NFP:size=13:style=Bold," };
 
-/* Gruvbox color scheme (inspired by Andrey0189/dwm-gruvbox) */
 static const char col_bg[]          = "#282828"; /* Фон (Gruvbox bg) */
 static const char col_fg[]          = "#d5c4a1"; /* Текст (Gruvbox fg, светлее) */
 static const char col_border[]      = "#fabd2f"; /* Граница активного окна (Gruvbox yellow) */
