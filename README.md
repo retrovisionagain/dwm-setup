@@ -13,10 +13,15 @@ make && sudo make install
 cd ../dwmblocks
 make && sudo make install
 cd ..
-# This will overwrite your previous configuration
-cp -r .config/ ~/
 cp startdwm.sh /usr/local/bin/
 ```
+
+Just put those configs in your .config:
+- alacritty
+- fish
+- starship
+- rofi
+
 Then, paste this:
 ```bash
 echo "exec /usr/local/bin/startdwm.sh" >> ~/.xinitrc
