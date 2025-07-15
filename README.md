@@ -1,2 +1,2 @@
 # dwm-gruvbox
-Gruvbox theme for dwm, nvim,alacritty and rofi
+Gruvbox theme for dwm, nvim,alacritty,rofi and starship
