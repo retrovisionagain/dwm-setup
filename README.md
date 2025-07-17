@@ -1,6 +1,6 @@
 # dwm-gruvbox
 ![Screenshot](https://github.com/retrovisionagain/dwm-gruvbox/blob/main/screenshots/gruvbox-dwm-def.png)
-![Screenshot](https://github.com/retrovisionagain/dwm-gruvbox/blob/main/screenshots/gruvbox-dwm.png)
+![Screenshot(https://github.com/retrovisionagain/dwm-gruvbox/blob/main/screenshots/void-gruvbox-dwm-ghosts.png)
 
 Gruvbox theme for dwm, nvim,alacritty,rofi and starship
 
