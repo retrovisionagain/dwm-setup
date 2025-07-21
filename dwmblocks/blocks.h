@@ -1,9 +1,9 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
 
-	{" ┇   ", "xkb-switch -p",1,0},
+	{"┇   ", "xkb-switch",1,0},
 
-	{" ", "~/scripts/battery.sh",60, 0},
+	{" ", "~/scripts/battery.sh",60, 0},
 
 	{" " , "date '+%d.%m'", 60, 0},
 
