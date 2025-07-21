@@ -1,13 +1,12 @@
-# dwm-gruvbox
-![Screenshot](https://github.com/retrovisionagain/dwm-gruvbox/blob/main/screenshots/gruvbox-dwm-def.png)
-![Screenshot](https://github.com/retrovisionagain/dwm-gruvbox/blob/main/screenshots/void-gruvbox-dwm-ghosts.png)
+# My dwm setup
+![Screenshot](https://github.com/retrovisionagain/dwm-setup/blob/main/artix-dwm.png)
 
-Gruvbox theme for dwm, nvim,alacritty,rofi and starship
+My setup for dwm,alacritty,rofi,fish and starship.
 
 ## Installation
 ```bash
 git clone https://github.com/retrovisionagain/dwm-gruvbox
-cd dwm-gruvbox
+cd dwm-setup
 cd dwm
 make && sudo make install
 cd ../dwmblocks
