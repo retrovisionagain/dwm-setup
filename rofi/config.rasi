@@ -1,6 +1,6 @@
 configuration{
   display-drun: "Apps";
-  drun-display-format: "{icon} {name}";
+  drun-display-format: "{name}";
   font: "JetBrainsMono Nerd Font Medium 12";
   modi: "drun";
 }
@@ -8,12 +8,11 @@ configuration{
 @theme "/dev/null"
 
 *{
- bg: #282828;
- bg-alt: #545454;
- fg: #d5c4a1;
- fg-alt: #fcd372;
+ bg: #0f1010;
+ bg-alt: #0f1010;
+ fg: #b9bed2;
+ fg-alt: #63656e;
  background-color: @bg;
- border: #fabd2f;
 
  margin: 0;
  padding: 0;
