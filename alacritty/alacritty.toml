@@ -1,16 +1,26 @@
-[colors.normal]
-black = "0x3c3836"
-blue = "0x7daea3"
-cyan = "0x89b482"
-green = "0xa9b665"
-magenta = "0xd3869b"
-red = "0xea6962"
-white = "0xd4be98"
-yellow = "0xd8a657"
-
 [colors.primary]
-background = "0x282828"
-foreground = "0xd4be98"
+background = "#0f1010"  # Темно-серый (фон)
+foreground = "#b9bed2"  # Светло-серый (текст)
+
+[colors.normal]
+black   = "#1C2526"  # Черный/темный
+red     = "#3B6EA8"  # Синий с оттенком
+green   = "#4D87B6"  # Светлее синий
+yellow  = "#5FA0C4"  # Еще светлее
+blue    = "#72B9D2"  # Яркий синий
+magenta = "#85D2E0"  # Светло-голубой
+cyan    = "#98EBEE"  # Очень светлый
+white   = "#B0F0F4"  # Почти белый
+
+[colors.bright]
+black   = "#4D5D64"  # Темно-серый
+red     = "#3B6EA8"  # Повтор синий
+green   = "#4D87B6"  # Повтор светлее
+yellow  = "#5FA0C4"  # Повтор еще светлее
+blue    = "#72B9D2"  # Повтор яркий
+magenta = "#85D2E0"  # Повтор светло-голубой
+cyan    = "#98EBEE"  # Повтор очень светлый
+white   = "#B0F0F4"  # Повтор почти белый
 
 [font.normal]
 family = "JetBrainsMono NF"
