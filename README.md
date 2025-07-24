@@ -3,7 +3,7 @@
 ![Screenshot](https://github.com/retrovisionagain/dwm-setup/blob/main/screenshots/artix-dwm.png)
 ![Screenshot](https://github.com/retrovisionagain/dwm-setup/blob/main/screenshots/artix-dwm-cmatrix.png)
 
-My setup for dwm,alacritty,rofi,fish and starship.
+My setup for dwm,alacritty,rofi,fish,starship and picom.
 
 ## Installation
 ```bash
