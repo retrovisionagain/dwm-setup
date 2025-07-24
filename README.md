@@ -22,6 +22,7 @@ Just put those configs in your .config:
 - fish
 - starship
 - rofi
+- picom
 
 Then, paste this:
 ```bash
