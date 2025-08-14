@@ -1,26 +1,26 @@
-[colors.primary]
-background = "#0f1010"  # Темно-серый (фон)
-foreground = "#b9bed2"  # Светло-серый (текст)
-
-[colors.normal]
-black   = "#1C2526"  # Черный/темный
-red     = "#3B6EA8"  # Синий с оттенком
-green   = "#4D87B6"  # Светлее синий
-yellow  = "#5FA0C4"  # Еще светлее
-blue    = "#72B9D2"  # Яркий синий
-magenta = "#85D2E0"  # Светло-голубой
-cyan    = "#98EBEE"  # Очень светлый
-white   = "#B0F0F4"  # Почти белый
+[font.normal]
+family = "Hack Nerd Font"
 
 [colors.bright]
-black   = "#4D5D64"  # Темно-серый
-red     = "#3B6EA8"  # Повтор синий
-green   = "#4D87B6"  # Повтор светлее
-yellow  = "#5FA0C4"  # Повтор еще светлее
-blue    = "#72B9D2"  # Повтор яркий
-magenta = "#85D2E0"  # Повтор светло-голубой
-cyan    = "#98EBEE"  # Повтор очень светлый
-white   = "#B0F0F4"  # Повтор почти белый
+black = "#444b6a"
+blue = "#7da6ff"
+cyan = "#0db9d7"
+green = "#b9f27c"
+magenta = "#bb9af7"
+red = "#ff7a93"
+white = "#acb0d0"
+yellow = "#ff9e64"
 
-[font.normal]
-family = "JetBrainsMono NF"
+[colors.normal]
+black = "#32344a"
+blue = "#7aa2f7"
+cyan = "#449dab"
+green = "#9ece6a"
+magenta = "#ad8ee6"
+red = "#f7768e"
+white = "#787c99"
+yellow = "#e0af68"
+
+[colors.primary]
+background = "#1a1b26"
+foreground = "#a9b1d6"
