@@ -1,5 +1,5 @@
 #!/bin/sh
-feh --bg-scale ~/Pictures/gruvbox-wallpapers/pacman-ghosts.png
+feh --bg-scale ~/Pictures/gruvbox-wallpapers/your-wall.png
 setxkbmap us,ru -option 'grp:alt_shift_toggle'
 brightnessctl set 100%
 dwmblocks &
