@@ -9,9 +9,8 @@ My setup for dwm,alacritty,rofi,fish,starship and picom.
 ```bash
 git clone https://github.com/retrovisionagain/dwm-gruvbox
 cd dwm-setup
-cd dwm
 make && sudo make install
-cd ../dwmblocks
+cd dwmblocks
 make && sudo make install
 cd ..
 cp startdwm.sh /usr/local/bin/
@@ -22,9 +21,12 @@ Just put those configs in your .config:
 - fish
 - starship
 - rofi
-- picom
 
-Then, paste this:
+If you use a display manager
+```bash
+sudo cp dwm.desktop /usr/local/share/xsessions/
+```
+If you don't
 ```bash
 echo "exec /usr/local/bin/startdwm.sh" >> ~/.xinitrc
 ```
