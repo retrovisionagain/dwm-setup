@@ -7,7 +7,7 @@ My setup for dwm,alacritty,rofi,fish,starship and picom.
 
 ## Installation
 ```bash
-git clone https://github.com/retrovisionagain/dwm-gruvbox
+git clone https://github.com/retrovisionagain/dwm-setup
 cd dwm-setup
 make && sudo make install
 cd dwmblocks
