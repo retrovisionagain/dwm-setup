@@ -3,7 +3,7 @@
 ![Screenshot](https://github.com/retrovisionagain/dwm-setup/blob/main/tokyo-night.png)
 ![Screenshot](https://github.com/retrovisionagain/dwm-setup/blob/main/tokyo-night-void.png)
 
-My setup for dwm,alacritty,rofi,fish,starship and picom.
+My setup for dwm,alacritty,rofi,fish,starship.
 
 ## Installation
 ```bash
